@@ -1,6 +1,13 @@
 # 🚀 Ganeshkumar V
 
-Rocket Propulsion, Computational Fluid Dynamics, High Performance Computing
+Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing
+### 📊 Stats
+
+![Ganeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshkumar-V&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 <!--
 **Ganeshkumar-V/Ganeshkumar-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
