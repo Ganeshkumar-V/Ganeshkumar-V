@@ -1,6 +1,6 @@
 # 🚀 Ganeshkumar V
 
-## Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing ##
+**`Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing`**
 
 I am a PhD Scholar at IIT Gandhinagar working on Rocket Propulsion Projects. I use advanced CFD techniques to predict the performance of the rocket motors. I'm also an OpenFOAM developer, envisioning complex CFD frameworks which include multiple physics using OpenFOAM.  
 
