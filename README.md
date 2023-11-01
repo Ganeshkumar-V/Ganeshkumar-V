@@ -1,6 +1,8 @@
 # 🚀 Ganeshkumar V
 
-Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing
+## Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing ##
+
+I am a PhD Scholar at IIT Gandhinagar
 
 <!--
 ### 📊 Stats
