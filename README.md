@@ -2,7 +2,7 @@
 
 **`Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing, OpenFOAM`**
 
-I am a doctoral candidate at IIT Gandhinagar, specializing in Rocket Propulsion and Combustion, with a particular focus on energetic materials. My research involves the development of multiphase Computational Fluid Dynamics (CFD) solvers aimed at accurately predicting the performance of rocket motors. I envision and execute my projects by developing sophisticated CFD frameworks within the OpenFOAM platform. 
+I am a Ph.D. Research Scholar at IIT Gandhinagar, specializing in Rocket Propulsion and Combustion, with a particular focus on energetic materials. My research involves the development of multiphase Computational Fluid Dynamics (CFD) solvers aimed at accurately predicting the performance of rocket motors. I envision and execute my projects by developing sophisticated CFD frameworks within the OpenFOAM platform. 
 
 <!--
 ### 📊 Stats
