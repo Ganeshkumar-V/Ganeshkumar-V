@@ -52,5 +52,5 @@
 
 <h3>📊 Engineering Metrics</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-V&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-V&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
