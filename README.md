@@ -4,7 +4,7 @@
 
 I am a Ph.D. Research Scholar at IIT Gandhinagar, specializing in Rocket Propulsion and Combustion, with a particular focus on energetic materials. My research involves the development of multiphase Computational Fluid Dynamics (CFD) solvers aimed at accurately predicting the performance of rocket motors. I envision and execute my projects by developing sophisticated CFD frameworks within the OpenFOAM platform. 
 
-
+<!--
 ### 📊 Stats
 
 ![Ganeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshkumar-V&show_icons=true&theme=gruvbox)
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
