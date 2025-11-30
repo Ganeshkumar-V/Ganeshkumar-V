@@ -35,7 +35,7 @@
       </a>
     </td>
     <td width="40%" valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../placeholder.gif" width="100%" alt="CFD Simulation Output">
+      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../placeholder.gif](https://github.com/Ganeshkumar-V/RocPerf-CFD/blob/master/docs/media.gif)" width="100%" alt="CFD Simulation Output">
     </td>
   </tr>
 </table>
