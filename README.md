@@ -16,9 +16,10 @@
 <br>
 
 <h3>🚀 Featured Work: RocPerf-CFD</h3>
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<td width="40%" valign="center">
+      <img src="https://github.com/Ganeshkumar-V/RocPerf-CFD/blob/master/docs/media.gif" width="100%" alt="CFD Simulation Output">
+    </td>
+    <td width="60%" valign="middle">
       <br>
       <b>An OpenFOAM-based prediction tool for Solid Rocket Motor performance.</b>
       <br><br>
@@ -34,11 +35,7 @@
         <img src="https://img.shields.io/badge/View_Repository-RocPerf--CFD-00599C?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
-    <td width="40%" valign="center">
-      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../placeholder.gif](https://github.com/Ganeshkumar-V/RocPerf-CFD/blob/master/docs/media.gif)" width="100%" alt="CFD Simulation Output">
-    </td>
-  </tr>
-</table>
+    
 
 <br>
 
