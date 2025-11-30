@@ -1,47 +1,59 @@
-# 🚀 Ganeshkumar V
+<h1 align="center">Ganeshkumar V</h1>
+<p align="center">
+  <b>Ph.D. Research Scholar @ IIT Gandhinagar</b><br>
+  Computational Fluid Dynamics | Combustion | Propulsion | High-Performance Computing
+</p>
 
-**`Combustion, Propulsion, Computational Fluid Dynamics, High-Performance Computing, OpenFOAM`**
+<p align="center">
+  <a href="https://linkedin.com/in/ganeshkumar-v">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ganeshkv@iitgn.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-# Hi there, I'm Ganeshkumar V! 👋
-### 🚀 Ph.D. Research Scholar | Rocket Propulsion & Combustion & CFD
+<br>
 
-I specialize in **Computational Fluid Dynamics**, developing solvers for **OpenFOAM** to predict rocket motor performance.
+<h3>🚀 Featured Work: RocPerf-CFD</h3>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br>
+      <b>An OpenFOAM-based prediction tool for Solid Rocket Motor performance.</b>
+      <br><br>
+      This framework leverages multiphase CFD solvers to accurately predict internal ballistics and propulsive performance of solid rocket motors.
+      <br><br>
+      <ul>
+        <li><b>Core:</b> Custom C++ solvers within OpenFOAM structure.</li>
+        <li><b>Physics:</b> Two-phase flow, propellant regression, and interphase interactions.</li>
+        <li><b>Target:</b> High-fidelity performance prediction for propulsion systems.</li>
+      </ul>
+      <br>
+      <a href="https://github.com/Ganeshkumar-V/RocPerf-CFD">
+        <img src="https://img.shields.io/badge/View_Repository-RocPerf--CFD-00599C?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="40%" valign="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../placeholder.gif" width="100%" alt="CFD Simulation Output">
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 🛠️ Tech Stack & Tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-brightgreen?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h3>🛠️ Technical Arsenal</h3>
+<p>
+  <img src="https://img.shields.io/badge/C++-Solutions-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenFOAM-CFD_Dev-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/MPI-Parallel_Computing-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cuda-GPU_Program_Dev-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-HPC_Env-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
----
+<br>
 
-### 🔭 Current Research
-- Developing multiphase CFD solvers for energetic materials.
-- [Insert Link or GIF of a recent simulation here]
-
----
-
-### 📊 GitHub Stats
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshkumar-V&show_icons=true&theme=radical)
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ganeshkumar-v/)
-
-<!--
-### 📊 Stats
-
-![Ganeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshkumar-V&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-<!--
-**Ganeshkumar-V/Ganeshkumar-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📊 Engineering Metrics</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-V&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+</p>
