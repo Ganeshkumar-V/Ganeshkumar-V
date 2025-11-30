@@ -1,8 +1,29 @@
 # 🚀 Ganeshkumar V
 
-**`Rocket Propulsion, Computational Fluid Dynamics, High-Performance Computing, OpenFOAM`**
+**`Combustion, Propulsion, Computational Fluid Dynamics, High-Performance Computing, OpenFOAM`**
 
-I am a Ph.D. Research Scholar at IIT Gandhinagar, specializing in Rocket Propulsion and Combustion, with a particular focus on energetic materials. My research involves the development of multiphase Computational Fluid Dynamics (CFD) solvers aimed at accurately predicting the performance of rocket motors. I envision and execute my projects by developing sophisticated CFD frameworks within the OpenFOAM platform. 
+# Hi there, I'm Ganeshkumar V! 👋
+### 🚀 Ph.D. Research Scholar | Rocket Propulsion & Combustion & CFD
+
+I specialize in **Computational Fluid Dynamics**, developing solvers for **OpenFOAM** to predict rocket motor performance.
+
+---
+
+### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-brightgreen?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🔭 Current Research
+- Developing multiphase CFD solvers for energetic materials.
+- [Insert Link or GIF of a recent simulation here]
+
+---
+
+### 📊 GitHub Stats
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshkumar-V&show_icons=true&theme=radical)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ganeshkumar-v/)
 
 <!--
 ### 📊 Stats
