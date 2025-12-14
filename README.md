@@ -15,13 +15,13 @@
 
 <br>
 
-<h3>🚀 Featured Work: RocPerf: An OpenFOAM-based software tool for internal ballistic simulations of solid rocket motors</h3>
+<h3>🚀 Featured Work: RocPerf</h3>
 <td width="40%" valign="center">
       <img src="https://github.com/Ganeshkumar-V/RocPerf/blob/master/docs/media.gif" width="100%" alt="CFD Simulation Output">
     </td>
     <td width="60%" valign="middle">
       <br>
-      <b>An OpenFOAM-based prediction tool for Solid Rocket Motor performance.</b>
+      <b>An OpenFOAM-based software tool for internal ballistic simulations of solid rocket motors.</b>
       <br><br>
       This framework leverages multiphase CFD solvers to accurately predict internal ballistics and propulsive performance of solid rocket motors.
       <br><br>
