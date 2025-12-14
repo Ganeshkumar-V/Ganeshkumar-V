@@ -15,9 +15,9 @@
 
 <br>
 
-<h3>🚀 Featured Work: RocPerf-CFD</h3>
+<h3>🚀 Featured Work: RocPerf: An OpenFOAM-based software tool for internal ballistic simulations of solid rocket motors</h3>
 <td width="40%" valign="center">
-      <img src="https://github.com/Ganeshkumar-V/RocPerf-CFD/blob/master/docs/media.gif" width="100%" alt="CFD Simulation Output">
+      <img src="https://github.com/Ganeshkumar-V/RocPerf/blob/master/docs/media.gif" width="100%" alt="CFD Simulation Output">
     </td>
     <td width="60%" valign="middle">
       <br>
@@ -31,7 +31,7 @@
         <li><b>Target:</b> High-fidelity performance prediction for propulsion systems.</li>
       </ul>
       <br>
-      <a href="https://github.com/Ganeshkumar-V/RocPerf-CFD">
+      <a href="https://github.com/Ganeshkumar-V/RocPerf">
         <img src="https://img.shields.io/badge/View_Repository-RocPerf--CFD-00599C?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
